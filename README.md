@@ -16,7 +16,10 @@ In this Project we have used Yolov5s deep learning Model to detect and count the
    speed, high accuracy, and learning capabilities. YOLOv5 uses PyTorch which makes the deployment of
    the model faster, easier and accurate. Everycode is written and run on Jupyter Notebook and good      hardware is needed to train the dataset, if you don't have good hardware then use Google Colab.
 
- - Result: We are getting nearly 100% result for the given image.
+## Result
+We are getting nearly 100% result for the above Image. However, since we adjusted our dataset to detect discrete tree we did not fully detect overlapping trees.
+
+![Image](Test_Model_Images/result.jpg)
 
  
    
