@@ -1,0 +1,4 @@
+train: 1_datapreparation/data_images/train
+val: 1_datapreparation/data_images/test
+nc: 1
+names: ['tree']
